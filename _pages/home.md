@@ -8,6 +8,3 @@ layout: page
 permalink: http://dannymejiaindev.com/sightsite/
 published: true
 ---
-<img class="size-medium wp-image-50 alignleft" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016-300x200.jpg" alt="AltPlaceHolder" width="300" height="200" /> <img class="alignleft size-medium wp-image-50" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016-300x200.jpg" alt="AltPlaceHolder" width="300" height="200" /> <img class="alignleft size-medium wp-image-50" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016-300x200.jpg" alt="AltPlaceHolder" width="300" height="200" /> <p style="text-align: left">
-  saqhgsdvgyasvdhgsvdfytgasvdyghasvdytgas
-</p>
