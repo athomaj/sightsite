@@ -1,11 +1,11 @@
 ---
-ID: 122
+ID: 56
 post_title: LBACSS Numbers
-author: sightsite
-post_date: 2017-03-10 05:14:01
+author: user
+post_date: 2017-03-10 19:08:09
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dannymejiaindev.com/sightsite/statistics/lbacss-numbers/
+  http://www.testmaishalite.dev/lbacss-numbers/
 published: true
 ---

@@ -1,15 +1,16 @@
 ---
-ID: 95
+ID: 46
 post_title: Contact
-author: sightsite
-post_date: 2017-03-10 05:06:00
+author: user
+post_date: 2017-03-10 19:08:09
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dannymejiaindev.com/sightsite/contact/
+permalink: http://www.testmaishalite.dev/contact/
 published: true
 ---
-[contact-form-7 id="131" title="Untitled"]     <div id="content">
+[contact-form-7 id="131" title="Untitled"]    
+
+<div id="content">
   <h1>
     2.3 A simple contact form:
   </h1>

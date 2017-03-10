@@ -1,11 +1,10 @@
 ---
-ID: 85
+ID: 65
 post_title: salb-blog
-author: sightsite
-post_date: 2017-03-10 04:55:00
+author: user
+post_date: 2017-03-10 19:08:09
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dannymejiaindev.com/sightsite/salb-blog/
+permalink: http://www.testmaishalite.dev/salb-blog/
 published: true
 ---

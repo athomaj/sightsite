@@ -1,11 +1,11 @@
 ---
-ID: 101
+ID: 58
 post_title: Mayor Garcia
-author: sightsite
-post_date: 2017-03-10 05:08:56
+author: user
+post_date: 2017-03-10 19:08:09
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dannymejiaindev.com/sightsite/campaigns/mayor-garcia/
+  http://www.testmaishalite.dev/mayor-garcia/
 published: true
 ---
