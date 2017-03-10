@@ -9,4 +9,3 @@ permalink: >
   http://dannymejiaindev.com/sightsite/campaigns/
 published: true
 ---
-[gridwud slug="test-test" button="0" grid="3" shape="1" tiles="0" sticky="0" gray="0"][gridwud slug="test-test" title="sadfsdf" button="0" shape="1"]
