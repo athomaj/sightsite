@@ -9,3 +9,4 @@ permalink: >
   http://dannymejiaindev.com/sightsite/campaigns/
 published: true
 ---
+[ezcol_1third]this is column 1[/ezcol_1third] [ezcol_1third]this is column 2[/ezcol_1third] [ezcol_1third_end]this is column 3[/ezcol_1third_end]
