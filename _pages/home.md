@@ -12,15 +12,46 @@ published: true
 </div>
 
 <div class="container-fluid">
-  <div class="col-sm-12">
-    sdsadsadsadsadsaddddddddddddddddddddddddd
+  <div class="col-sm-3">
+    <h1 class="fx">
+      Picture Bar
+    </h1>
+    
+    <h1 class="fx">
+      Picture Bar
+    </h1>
+    
+    <h1 class="fx">
+      Picture Bar
+    </h1>
+    
+    <h1 class="fx">
+      Picture Bar
+    </h1>
   </div>
   
-  <div class="col-sm-4">
-    sdsadsadsadsadsaddddddddddddddddddddddddd
+  <div class="col-sm-9">
+    <h1>
+      Title
+    </h1>
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor dolor eu tincidunt luctus. Vivamus rutrum non elit ut vulputate. Morbi quis nisl non ipsum vulputate pulvinar quis et diam. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet semper neque, cursus dictum dui fermentum sit amet. Duis consectetur justo eget sapien viverra, sed ornare eros consequat. Suspendisse nisl erat, blandit vel elit id, eleifend tempor ante. Ut dignissim velit et ornare consectetur. Pellentesque orci turpis, tempus sit amet urna nec, dapibus rhoncus eros. Duis lacinia est hendrerit, fermentum odio ac, imperdiet lorem. Nunc tempor gravida nunc, vitae vulputate nisl tristique quis. Etiam nec ligula lacus. Etiam vitae viverra felis, nec consectetur urna. Praesent pellentesque nisl sit amet ultricies accumsan. Proin non odio vel quam molestie bibendum. Pellentesque eu erat quam. Sed suscipit tempus orci non ultricies. Mauris convallis, diam non sollicitudin accumsan, risus lorem posuere nunc, a maximus felis tortor vel erat. Etiam dictum mauris enim, nec tristique lacus congue et.
+    </p>
+    
+    <h1>
+      Title
+    </h1>
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor dolor eu tincidunt luctus. Vivamus rutrum non elit ut vulputate. Morbi quis nisl non ipsum vulputate pulvinar quis et diam. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet semper neque, cursus dictum dui fermentum sit amet. Duis consectetur justo eget sapien viverra, sed ornare eros consequat. Suspendisse nisl erat, blandit vel elit id, eleifend tempor ante. Ut dignissim velit et ornare consectetur. Pellentesque orci turpis, tempus sit amet urna nec, dapibus rhoncus eros. Duis lacinia est hendrerit, fermentum odio ac, imperdiet lorem. Nunc tempor gravida nunc, vitae vulputate nisl tristique quis. Etiam nec ligula lacus. Etiam vitae viverra felis, nec consectetur urna. Praesent pellentesque nisl sit amet ultricies accumsan. Proin non odio vel quam molestie bibendum. Pellentesque eu erat quam. Sed suscipit tempus orci non ultricies. Mauris convallis, diam non sollicitudin accumsan, risus lorem posuere nunc, a maximus felis tortor vel erat. Etiam dictum mauris enim, nec tristique lacus congue et.
+    </p>
+    
+    <h1>
+      Title
+    </h1>
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer auctor dolor eu tincidunt luctus. Vivamus rutrum non elit ut vulputate. Morbi quis nisl non ipsum vulputate pulvinar quis et diam. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc laoreet semper neque, cursus dictum dui fermentum sit amet. Duis consectetur justo eget sapien viverra, sed ornare eros consequat. Suspendisse nisl erat, blandit vel elit id, eleifend tempor ante. Ut dignissim velit et ornare consectetur. Pellentesque orci turpis, tempus sit amet urna nec, dapibus rhoncus eros. Duis lacinia est hendrerit, fermentum odio ac, imperdiet lorem. Nunc tempor gravida nunc, vitae vulputate nisl tristique quis. Etiam nec ligula lacus. Etiam vitae viverra felis, nec consectetur urna. Praesent pellentesque nisl sit amet ultricies accumsan. Proin non odio vel quam molestie bibendum. Pellentesque eu erat quam. Sed suscipit tempus orci non ultricies. Mauris convallis, diam non sollicitudin accumsan, risus lorem posuere nunc, a maximus felis tortor vel erat. Etiam dictum mauris enim, nec tristique lacus congue et.
+    </p>
   </div>
-  
-  <div class="col-sm-4">
-    sdsadsadsadsadsaddddddddddddddddddddddddd
-  </div>
-</div>
