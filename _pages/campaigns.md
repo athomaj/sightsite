@@ -9,4 +9,4 @@ permalink: >
   http://dannymejiaindev.com/sightsite/campaigns/
 published: true
 ---
-[gridwud slug="TestIt" title="Cusom Title" tiles="0" bg="1"]
+[gridwud slug="sdsf" button="0" grid="3"] [gridwud slug="TestIt" title="Cusom Title" tiles="0" bg="1"]
