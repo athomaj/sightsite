@@ -15,4 +15,12 @@ published: true
   <div class="col-sm-4">
     sdsadsadsadsadsaddddddddddddddddddddddddd
   </div>
+  
+  <div class="col-sm-4">
+    sdsadsadsadsadsaddddddddddddddddddddddddd
+  </div>
+  
+  <div class="col-sm-4">
+    sdsadsadsadsadsaddddddddddddddddddddddddd
+  </div>
 </div>
