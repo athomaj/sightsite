@@ -8,3 +8,4 @@ layout: page
 permalink: http://dannymejiaindev.com/sightsite/
 published: true
 ---
+[NPG id=49]
