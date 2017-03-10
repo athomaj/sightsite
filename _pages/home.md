@@ -12,7 +12,7 @@ published: true
 </div>
 
 <div class="container-fluid">
-  <div class="col-sm-4">
+  <div class="col-sm-12">
     sdsadsadsadsadsaddddddddddddddddddddddddd
   </div>
   
