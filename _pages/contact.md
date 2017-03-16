@@ -9,4 +9,3 @@ permalink: >
   http://dannymejiaindev.com/sightsite/contact/
 published: true
 ---
-[contact-form-7 id="197" title="Contact Us"]
