@@ -9,3 +9,4 @@ permalink: >
   http://dannymejiaindev.com/sightsite/test/
 published: true
 ---
+  [ezcol_1half]Half Column[/ezcol_1half] [ezcol_1half_end]Half Column[/ezcol_1half_end]
