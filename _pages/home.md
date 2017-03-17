@@ -25,7 +25,7 @@ published: true
 </h2>   
 
 <div style="text-align: center;">
-  https://www.youtube.com/watch?v=i4uUJf8kQ3Q
+  [fve]http://youtu.be/oHg5SJYRHA0[/fve]
 </div> [ezcol_end_both]  
 
  [1]: http://dannymejiaindev.com/sightsite/the-no-kill-equation/
