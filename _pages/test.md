@@ -11,4 +11,4 @@ published: true
 ---
 [arve url="[https://youtu.be/yUCFRL43Zm4][1]"]
 
- [1]: https://www.youtube.com/watch?v=i4uUJf8kQ3Q
+ [1]: https://youtu.be/i4uUJf8kQ3Q
