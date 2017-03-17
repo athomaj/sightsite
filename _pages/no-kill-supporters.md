@@ -1,11 +1,11 @@
 ---
-ID: 63
+ID: 93
 post_title: No Kill Supporters
-author: user
-post_date: 2017-03-10 19:08:09
+author: sightsite
+post_date: 2017-03-10 05:05:26
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.testmaishalite.dev/no-kill-supporters/
+  http://dannymejiaindev.com/sightsite/no-kill-supporters/
 published: true
 ---
