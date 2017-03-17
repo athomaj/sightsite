@@ -20,6 +20,6 @@ published: true
   Working to Make Long Beach A No Kill City
 </h2> In 2016, Long Beach Animal Care Services killed over 1,660 companion animals in our city's animal shelter. That is 26% of the animals that entered the shelter's doors and includes a 40% kill rate for kittens, a 32% kill rate for cats, a 15% kill rate for dogs and a 10% kill rate for puppies. Recent improvements in animal sheltering, known as 
 
-[the No Kill Equation][1], have reversed the killing trend in cities across the US. It can happen in Long Beach as well. Stayin' Alive Long Beach is a political advocacy group composed of concerned residents who want to see the progressive, fiscally-responsible programs of the No Kill Equation put in place at the Long Beach Animal Shelter. We invite you to join us as we work politically to increase the save rate of animals at the Long Beach Animal Shelter. [/ezcol_1half_end]
+[the No Kill Equation][1], have reversed the killing trend in cities across the US. It can happen in Long Beach as well. Stayin' Alive Long Beach is a political advocacy group composed of concerned residents who want to see the progressive, fiscally-responsible programs of the No Kill Equation put in place at the Long Beach Animal Shelter. We invite you to join us as we work politically to increase the save rate of animals at the Long Beach Animal Shelter. [/ezcol_1half_end]   [ezcol_divider] [avl_video id="242"] [ezcol_end_both]
 
  [1]: http://dannymejiaindev.com/sightsite/the-no-kill-equation/
