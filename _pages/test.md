@@ -9,6 +9,7 @@ permalink: >
   http://dannymejiaindev.com/sightsite/test/
 published: true
 ---
-[arve url="[https://youtu.be/yUCFRL43Zm4][1]"]
+[arve url="[https://youtu.be/yUCFRL43Zm4][1]"] [arve url="[https://youtu.be/Z7g8-GxLTSc][2]" title="Your SEO Title" description="Your SEO Description" upload_date="2016-09-14"]
 
  [1]: https://youtu.be/i4uUJf8kQ3Q
+ [2]: https://youtu.be/yUCFRL43Zm4
