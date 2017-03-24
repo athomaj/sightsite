@@ -9,3 +9,4 @@ permalink: >
   http://dannymejiaindev.com/sightsite/donate/
 published: true
 ---
+[paypal-donation]
