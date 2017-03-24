@@ -22,7 +22,7 @@ published: true
 
 [the No Kill Equation][1], have reversed the killing trend in cities across the United States. This can happen in Long Beach as well. Stayin’ Alive Long Beach is a political advocacy group composed of concerned residents who want to see the progressive, fiscally-responsible programs of the No Kill Equation put in place at the Long Beach Animal Shelter. We invite you to join us as we work politically to increase the save rate of animals at the Long Beach Animal Shelter. [/ezcol_1half_end]   [ezcol_divider] <h2 class="wsite-content-title" style="text-align: center;">
   Stayin' Alive Long Beach PSA
-</h2>   
+</h2>
 
 <div style="text-align: center;">
   <code>[fve]&lt;a href="https://youtu.be/i4uUJf8kQ3Q">http://youtu.be/oHg5SJYRHA0&lt;/a>[/fve]</code>
