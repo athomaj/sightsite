@@ -9,4 +9,4 @@ permalink: >
   http://dannymejiaindev.com/sightsite/contact/
 published: true
 ---
-  [wpforms id="340"] <-- --!>
+  [wpforms id="340"]
