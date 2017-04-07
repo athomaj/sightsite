@@ -9,7 +9,7 @@ permalink: >
   http://dannymejiaindev.com/sightsite/how-can-i-help/
 published: true
 ---
-## <span style="font-weight: 400;">Contact</span>
+## Contact
 
 <span style="font-weight: 400;">Contact your city council member and ask for the implementation of the proactive and responsible programs of the No Kill Equation. They like to hear from the people in their districts, so give it a try.</span> 
 ## <span style="font-weight: 400;">Distribute flyers</span>
