@@ -17,4 +17,4 @@ for (var row=0; row < table.rows.length; ++row) {
    table.rows[row].cells[cell].tabIndex = 1;
   }
 }
-</script>
+</script> [maxbutton id="2" ]
