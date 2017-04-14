@@ -15,7 +15,7 @@ published: true
   ------------------------------------TEXT/Link------------------------------------------
 </p>   [ezcol_end_both]   [ezcol_1half] 
 
-<h2 class="wsite-content-title" style="text-align: center;">
+<h2 class="wsite-content-title" style="text-align: left;">
 </h2> [/ezcol_1half] [ezcol_1half_end] 
 
 <h2 class="wsite-content-title" style="text-align: center;">
