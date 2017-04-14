@@ -19,7 +19,7 @@ published: true
   Who We Are
 </h2>
 
-<img id="longdesc-return-232" class="alignnone size-full wp-image-232" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/6909542.jpg" alt="Jane Mattson Memorial Fun Image" width="364" height="253" longdesc="http://dannymejiaindev.com/sightsite?longdesc=232&referrer=33" />   [/ezcol_1half] [ezcol_1half_end] <h2 class="wsite-content-title">
+<img id="longdesc-return-232" class="alignnone size-full wp-image-232" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/6909542.jpg" alt="Jane Mattson Memorial Fun Image" width="364" height="253" longdesc="http://dannymejiaindev.com/sightsite?longdesc=232&referrer=33" /> ------------------------------------TEXT/Link------------------------------------------ [/ezcol_1half] [ezcol_1half_end] <h2 class="wsite-content-title">
   Working to Make Long Beach A No Kill City
 </h2> In 2016, Long Beach Animal Care Services killed over 1,660 companion animals in our city’s animal shelter. That is 26 percent of the animals that entered the shelter’s doors and includes a 40 percent kill rate for kittens, a 32 percent kill rate for cats, a 15 percent kill rate for dogs and a 10 percent kill rate for puppies. Recent improvements in animal sheltering, known as 
 
