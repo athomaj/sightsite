@@ -34,6 +34,6 @@ published: true
    Social media
 </h2> Join and share 
 
-[Stayin' Alive Long Beach's Facebook page][1]. Use social media as a tool to share our posts and spread the word about animal rescue in Long Beach. [/ezcol_1third_end]    
+[Stayin' Alive Long Beach's Facebook page][1]. Use social media as a tool to share our posts and spread the word about animal rescue in Long Beach. [/ezcol_1third_end]   [maxbutton id="2" ]
 
  [1]: http://www.facebook.com/StayinAliveLB
