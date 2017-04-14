@@ -14,7 +14,25 @@ published: true
 </h2>
 
 <div class="paragraph">
-  The following are raw data for animal intakes and outcomes provided to Stayin' Alive Long Beach by Long Beach Animal Care Services under the California Public Records Act. ​ <strong>Single Month Reports</strong> <div class="paragraph">
+  The following are raw data for animal intakes and outcomes provided to Stayin' Alive Long Beach by Long Beach Animal Care Services under the California Public Records Act.
+</div>
+
+<div class="paragraph">
+</div>
+
+<div class="paragraph">
+  ​ <strong>Single Month Reports</strong>
+</div>
+
+<div class="paragraph">
+  [pdfviewer width="600px" height="700px" beta="true"]http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_december_2016__1_.pdf[/pdfviewer]
+</div>
+
+<div class="paragraph">
+</div>
+
+<div class="paragraph">
+  <div class="paragraph">
     <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_december_2016__1_.pdf" target="_blank">December 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
   </div>
   
@@ -81,19 +99,13 @@ published: true
     </div>
   </div>
   
-  <strong>Cumulative Reports</strong>
+  <strong>Cumulative Reports</strong> [pdfviewer width="600px" height="700px" beta="true"]http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf[/pdfviewer] <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf">January - December 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services <em style="font-size: 1em;"><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_2_-_kennel_statistics_jan-nov_2016__1_.pdf">January - November 2016 Kennel Statistics Report</a></em><span style="font-size: 1em;"> - Long Beach Animal Care Services </span><em style="font-size: 1em;"><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_statistics_jan_through_oct_2016.pdf">January - October 2016 Kennel Statistics Report</a></em><span style="font-size: 1em;"> - Long Beach Animal Care Services </span><em style="font-size: 1em;"><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_2_-_kennel_statistics_jan-aug_2016.pdf">January - August 2016 Kennel Statistics Report</a></em><span style="font-size: 1em;"> - Long Beach Animal Care Services </span><em style="font-size: 1em;"><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_2_-_kennel_statistics_jan-july_2016.pdf">January - July 2016 Kennel Statistics Report</a> </em><span style="font-size: 1em;">- Long Beach Animal Care Services</span>
 </div>
 
-*[January - December 2016 Kennel Statistics Report][1]* - Long Beach Animal Care Services *[January - November 2016 Kennel Statistics Report][2]* - Long Beach Animal Care Services *[January - October 2016 Kennel Statistics Report][3]* - Long Beach Animal Care Services *[January - August 2016 Kennel Statistics Report][4]* - Long Beach Animal Care Services *[January - July 2016 Kennel Statistics Report][5] *- Long Beach Animal Care Services <h2 class="wsite-content-title">
+<h2 class="wsite-content-title">
   California state-wide Euthanasia Rates
 </h2>
 
 <div class="paragraph">
   The California Department of Public Health publishes a report of shelter animal statistics for all counties in California as part of the state's rabies control program.  We provide links to these statistics as a public service. <em><a href="https://www.cdph.ca.gov/HealthInfo/discond/Pages/LocalRabiesControlActivities.aspx" target="_blank">2010 - 2015 California Animal Shelter Statistics (Local Rabies Control Activities Reports - California Department of Public Health)</a></em>
 </div>
-
- [1]: http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf
- [2]: http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_2_-_kennel_statistics_jan-nov_2016__1_.pdf
- [3]: http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_statistics_jan_through_oct_2016.pdf
- [4]: http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_2_-_kennel_statistics_jan-aug_2016.pdf
- [5]: http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_2_-_kennel_statistics_jan-july_2016.pdf
