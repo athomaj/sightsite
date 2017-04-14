@@ -19,58 +19,58 @@ published: true
   </div>
   
   <div class="paragraph">
-    <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_report_-_january_1_thru_31-2016-1.pdf">November 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+    <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_report_-_january_1_thru_31-2016-1.pdf">November 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
   </div>
 </div>
 
 <div class="paragraph">
   <div class="paragraph">
-    <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_statistics_october_2016.pdf">October 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+    <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_statistics_october_2016.pdf">October 2016 Kennel Statistics Report</a> </em>- Long Beach Animal Care Services
   </div>
   
   <div class="paragraph">
     <div class="paragraph">
-      <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_september_2016.pdf">September 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+      <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_september_2016.pdf">September 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
     </div>
     
     <div class="paragraph">
-      <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_august-2016.pdf">August 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+      <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_august-2016.pdf">August 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
     </div>
   </div>
 </div>
 
 <div class="paragraph">
   <div class="paragraph">
-    <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_july_2016.pdf">July 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+    <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_july_2016.pdf">July 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
   </div>
   
   <div class="paragraph">
     <div class="paragraph">
-      <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_june_2016.pdf">June 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+      <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_june_2016.pdf">June 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
     </div>
     
     <div class="paragraph">
       <div class="paragraph">
-        <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1-_kennel_statistics_report_may_2016___1_.pdf">May 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+        <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1-_kennel_statistics_report_may_2016___1_.pdf">May 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
       </div>
       
       <div class="paragraph">
         <div class="paragraph">
-          <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_april_2016_kennel_statistics.pdf">April 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+          <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_april_2016_kennel_statistics.pdf">April 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
         </div>
         
         <div class="paragraph">
           <div class="paragraph">
-            <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_mar_2016.pdf">March 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+            <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_mar_2016.pdf">March 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
           </div>
           
           <div class="paragraph">
             <div class="paragraph">
-              <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_february_2016_kennel_statistics.pdf">February 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+              <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_february_2016_kennel_statistics.pdf">February 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
             </div>
             
             <div class="paragraph">
-              <a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_report_-_january_1_thru_31-2016-1-1.pdf">January 2016 Kennel Statistics Report</a> - Long Beach Animal Care Services
+              <em><a href="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/item_1_-_kennel_statistics_report_-_january_1_thru_31-2016-1-1.pdf">January 2016 Kennel Statistics Report</a></em> - Long Beach Animal Care Services
             </div>
             
             <div class="paragraph">
@@ -84,12 +84,12 @@ published: true
   <strong>Cumulative Reports</strong>
 </div>
 
-[January - December 2016 Kennel Statistics Report][1] - Long Beach Animal Care Services [January - November 2016 Kennel Statistics Report][2] - Long Beach Animal Care Services [January - October 2016 Kennel Statistics Report][3] - Long Beach Animal Care Services [January - August 2016 Kennel Statistics Report][4] - Long Beach Animal Care Services [January - July 2016 Kennel Statistics Report][5] - Long Beach Animal Care Services <h2 class="wsite-content-title">
+*[January - December 2016 Kennel Statistics Report][1]* - Long Beach Animal Care Services *[January - November 2016 Kennel Statistics Report][2]* - Long Beach Animal Care Services *[January - October 2016 Kennel Statistics Report][3]* - Long Beach Animal Care Services *[January - August 2016 Kennel Statistics Report][4]* - Long Beach Animal Care Services *[January - July 2016 Kennel Statistics Report][5] *- Long Beach Animal Care Services <h2 class="wsite-content-title">
   California state-wide Euthanasia Rates
 </h2>
 
 <div class="paragraph">
-  The California Department of Public Health publishes a report of shelter animal statistics for all counties in California as part of the state's rabies control program.  We provide links to these statistics as a public service. <a href="https://www.cdph.ca.gov/HealthInfo/discond/Pages/LocalRabiesControlActivities.aspx" target="_blank">2010 - 2015 California Animal Shelter Statistics (Local Rabies Control Activities Reports - California Department of Public Health)</a>
+  The California Department of Public Health publishes a report of shelter animal statistics for all counties in California as part of the state's rabies control program.  We provide links to these statistics as a public service. <em><a href="https://www.cdph.ca.gov/HealthInfo/discond/Pages/LocalRabiesControlActivities.aspx" target="_blank">2010 - 2015 California Animal Shelter Statistics (Local Rabies Control Activities Reports - California Department of Public Health)</a></em>
 </div>
 
  [1]: http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf
