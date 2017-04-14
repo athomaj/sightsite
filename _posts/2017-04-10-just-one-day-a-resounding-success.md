@@ -17,7 +17,7 @@ published: true
 *   Track the number of animals saved as a result of participating in Just One Day 2013 and
 *   Make that information (number of animals saved) available to the public The biggest lesson that has come out of this event is this: Together, we can stop the killing in our city's shelters.  Who needs to do it?  The shelters need to lead the charge and get the rescues and the public involved in a significant way.  As Nathan Winograd said:  "We are all partners—ready, willing, and able to work together the moment [the shelters] decide to do so." Please 
 
-[l][6][et Long Beach Animal Care Services know][6] that you support working smarter and better to save more animals from death.  Tell them you support No Kill and the[ No Kill Equation][7]. It's nothing more than a focused plan that capitalizes on innovation, creativity and hard work to make killing unnecessary in our shelter. Are we ready? Let's Go!
+[l][6][et Long Beach Animal Care Services know][6] that you support working smarter and better to save more animals from death.  Tell them you support No Kill and the[ No Kill Equation][7]. It's nothing more than a focused plan that capitalizes on innovation, creativity and hard work to make killing unnecessary in our shelter. Are we ready? Let's Go!   [maxbutton id="2" ]
 
  [1]: http://www.justoneday.ws/ ""
  [2]: http://www.facebook.com/SacramentoCityAnimalCare ""
