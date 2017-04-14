@@ -9,14 +9,14 @@ permalink: http://dannymejiaindev.com/sightsite/
 published: true
 ---
 [ezcol_divider] <img id="longdesc-return-441" class="alignnone size-full wp-image-441" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/04/Cat_4-e1492198697630.jpg" alt="Image of a cat looking up at the sky" width="1600" height="900" longdesc="http://dannymejiaindev.com/sightsite?longdesc=441&referrer=33" /> <p style="text-align: center;">
-  ------------------------------------TEXT------------------------------------------
+  ------------------------------------TEXT/Link------------------------------------------
 </p>   [ezcol_end_both]   [ezcol_1half] 
 
 <h2 class="wsite-content-title">
   Who We Are
-</h2> Each day, thousands of homeless animals are being put to death in animal shelters across the country. No animal should die just because he or she is homeless. The mission of Stayin’ Alive Long Beach is to be a voice for animals and promote an end to the unnecessary killing of healthy and treatable animals in the Long Beach Animal Care Services shelter. We will accomplish this by advocating for responsible, cost-effective policies and programs that will reduce population growth and increase adoption rates. It is our goal to see Long Beach Animal Care Services comprehensively implement these policies of responsible municipal sheltering to make Long Beach a safer place for animals and humans. New models of sheltering, based on innovative, non-lethal programs and services, have proven effective in progressive cities across the nation. We will work to create a similar benefit to the people and the animals of Long Beach, CA. Ultimately, our mission is to create a ‘No Kill’ city. [/ezcol_1half] [ezcol_1half_end] 
+</h2>
 
-<h2 class="wsite-content-title">
+<img id="longdesc-return-232" class="alignnone size-full wp-image-232" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/6909542.jpg" alt="Jane Mattson Memorial Fun Image" width="364" height="253" longdesc="http://dannymejiaindev.com/sightsite?longdesc=232&referrer=33" />   [/ezcol_1half] [ezcol_1half_end] <h2 class="wsite-content-title">
   Working to Make Long Beach A No Kill City
 </h2> In 2016, Long Beach Animal Care Services killed over 1,660 companion animals in our city’s animal shelter. That is 26 percent of the animals that entered the shelter’s doors and includes a 40 percent kill rate for kittens, a 32 percent kill rate for cats, a 15 percent kill rate for dogs and a 10 percent kill rate for puppies. Recent improvements in animal sheltering, known as 
 
