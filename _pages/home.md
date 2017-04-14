@@ -11,10 +11,14 @@ published: true
 [ezcol_divider] 
 ## Cat Title
 
-<img id="longdesc-return-441" class="alignnone size-full wp-image-441" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/04/Cat_4-e1492198697630.jpg" alt="Image of a cat looking up at the sky" width="1600" height="900" longdesc="http://dannymejiaindev.com/sightsite?longdesc=441&referrer=33" /> ------------------------------------TEXT/Link------------------------------------------   [ezcol_end_both]   [ezcol_1half] <h2 class="wsite-content-title" style="text-align: center;">
+<img id="longdesc-return-441" class="alignnone size-full wp-image-441" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/04/Cat_4-e1492198697630.jpg" alt="Image of a cat looking up at the sky" width="1600" height="900" longdesc="http://dannymejiaindev.com/sightsite?longdesc=441&referrer=33" /> <p style="text-align: center;">
+  ------------------------------------TEXT/Link------------------------------------------
+</p>   [ezcol_end_both]   [ezcol_1half] 
+
+<h2 class="wsite-content-title" style="text-align: center;">
 </h2> [/ezcol_1half] [ezcol_1half_end] 
 
-<h2 class="wsite-content-title">
+<h2 class="wsite-content-title" style="text-align: center;">
   Who We Are
 </h2>
 
