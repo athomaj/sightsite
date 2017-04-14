@@ -8,7 +8,10 @@ layout: page
 permalink: http://dannymejiaindev.com/sightsite/
 published: true
 ---
-[ezcol_divider] <img id="longdesc-return-441" class="alignnone size-full wp-image-441" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/04/Cat_4-e1492198697630.jpg" alt="Image of a cat looking up at the sky" width="1600" height="900" longdesc="http://dannymejiaindev.com/sightsite?longdesc=441&referrer=33" /> <p style="text-align: center;">
+[ezcol_divider] 
+## Cat Title
+
+<img id="longdesc-return-441" class="alignnone size-full wp-image-441" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/04/Cat_4-e1492198697630.jpg" alt="Image of a cat looking up at the sky" width="1600" height="900" longdesc="http://dannymejiaindev.com/sightsite?longdesc=441&referrer=33" /> <p style="text-align: center;">
   ------------------------------------TEXT/Link------------------------------------------
 </p>   [ezcol_end_both]   [ezcol_1half] 
 
