@@ -1,10 +1,12 @@
 ---
-ID: 28
+ID: 47
 post_title: 404-Page
-author: user
-post_date: 2017-03-10 19:08:08
+author: sightsite
+post_date: 2017-03-10 03:06:07
 post_excerpt: ""
 layout: page
-permalink: http://www.testmaishalite.dev/404-page/
+permalink: >
+  http://dannymejiaindev.com/sightsite/404-page/
 published: true
 ---
+[maxbutton id="2" ]
