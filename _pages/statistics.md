@@ -9,10 +9,6 @@ permalink: >
   http://dannymejiaindev.com/sightsite/statistics/
 published: true
 ---
-<style>
-  a:link {color:#053687; text-decoration:underline;}
-</style>
-
 <h2 class="wsite-content-title">
   Long Beach Animal Care Services ​Kennel Statistics Reports
 </h2>
