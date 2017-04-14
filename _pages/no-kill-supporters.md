@@ -1,6 +1,6 @@
 ---
 ID: 93
-post_title: No Kill Supporters
+post_title: No Kill Equation
 author: sightsite
 post_date: 2017-03-10 05:05:26
 post_excerpt: ""
