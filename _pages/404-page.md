@@ -9,4 +9,6 @@ permalink: >
   http://dannymejiaindev.com/sightsite/404-page/
 published: true
 ---
-We apoligize for the inconviniece, but the page was not found [maxbutton id="2" ]
+<p style="text-align: center;">
+  We apoligize for the inconviniece, but the page was not found
+</p> [maxbutton id="2" ]
