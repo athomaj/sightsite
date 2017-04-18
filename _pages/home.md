@@ -26,7 +26,7 @@ published: true
             <div class="panel panel-default">
               <div id="custom-collapse-0-0" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <pre class="">[add_posts category="category-slug" tag="tag-slug" show="5" h="2" full="false" readmore="Read more link text" img="false"]</pre>
+                  <pre class="">[add_posts category="DisplayOnHome" tag="tag-slug" show="5" h="2" full="false" readmore="Read more link text" img="false"]</pre>
                 </div>
               </div>
             </div>
