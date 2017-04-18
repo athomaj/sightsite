@@ -22,11 +22,7 @@ published: true
 
 <h2 style="text-align: center;">
   <img class="aligncenter wp-image-325 size-thumbnail" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/04/flyer-150x150.png" alt="Hand holding flyer icon" width="150" height="150" />Distribute flyers
-</h2> Inform your friends, family and local businesses by distributing flyers. 
-
-<p style="text-align: center;">
-  [maxbutton id="1"]
-</p> [/ezcol_1third] [ezcol_1third_end] 
+</h2> Inform your friends, family and local businesses by distributing flyers. [/ezcol_1third] [ezcol_1third_end] 
 
 ## <img class="wp-image-338 size-thumbnail aligncenter" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/heart_retweet-150x150.png" alt="Retweet arrow and like heart icon" width="150" height="150" />
 
