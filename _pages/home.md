@@ -20,7 +20,7 @@ published: true
 <div class="panel panel-default">
   <div id="custom-collapse-0-0" class="panel-collapse collapse in">
     <div class="panel-body">
-      <pre class="">[add_posts category="DisplayOnHome" tag="DisplayOnHome" show="5" h="2" full="false" readmore="Read more link text" img="false"]</pre>
+      <pre class="">[add_posts category="DisplayOnHome" tag="DisplayOnHome" show="5" h="2" full="false" readmore="Read more" img="false"]</pre>
     </div>
   </div>
 </div> [/ezcol_2third] [[ezcol_1third_end] 
