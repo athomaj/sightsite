@@ -15,7 +15,7 @@ published: true
 
 <p style="text-align: center;">
   ------------------------------------TEXT/Link------------------------------------------
-</p>   [ezcol_end_both]   [ezcol_1half] 
+</p>   [ezcol_end_both]   [ezcol_2third] 
 
 <div class="panel panel-default">
   <div id="custom-collapse-0-0" class="panel-collapse collapse in">
@@ -23,18 +23,14 @@ published: true
       <pre class="">[add_posts category="DisplayOnHome" tag="DisplayOnHome" show="5" h="2" full="false" readmore="Read more link text" img="false"]</pre>
     </div>
   </div>
-</div>
-
-<div class="panel panel-default">
-  [/ezcol_1half]
-</div> [ezcol_1half_end] 
+</div> [/ezcol_2third] [[ezcol_1third_end] 
 
 <h2 class="wsite-content-title" style="text-align: center;">
   Who We Are
 </h2>
 
 <img id="longdesc-return-232" class="size-full wp-image-232 aligncenter" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/6909542.jpg" alt="Jane Mattson Memorial Fun Image" width="364" height="253" longdesc="http://dannymejiaindev.com/sightsite?longdesc=232&referrer=33" /> ------------------------------------TEXT/Link------------------------------------------ <h2 class="wsite-content-title">
-</h2> [/ezcol_1half_end]   [ezcol_divider] 
+</h2> [/ezcol_1third_end]   [ezcol_divider] 
 
 <h2 class="wsite-content-title" style="text-align: center;">
   Stayin' Alive Long Beach PSA
