@@ -17,6 +17,8 @@ published: true
   ------------------------------------TEXT/Link------------------------------------------
 </p>   [ezcol_end_both]   [ezcol_1half] 
 
+<pre class="">[add_posts category="DisplayOnHome" show="2"]</pre>
+
 <div class="panel panel-default">
   <div id="custom-collapse-0-0" class="panel-collapse collapse in">
     <div class="panel-body">
@@ -26,7 +28,7 @@ published: true
             <div class="panel panel-default">
               <div id="custom-collapse-0-0" class="panel-collapse collapse in">
                 <div class="panel-body">
-                  <pre class="">[add_posts category="DisplayOnHome" tag="DisplayOnHome" show="1" h="2" full="false" readmore="Read more link text" img="false"]</pre>
+                  <pre class="">[add_posts category="DisplayOnHome" tag="DisplayOnHome" show="1" h="2" readmore="Read more link text" img="false"]</pre>
                 </div>
               </div>
             </div>
