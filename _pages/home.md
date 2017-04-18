@@ -13,9 +13,9 @@ published: true
 
 ### In 2016, Long Beach Animal Care Services killed over 1,660 companion animals in our city’s animal shelter.
 
-<p style="text-align: center;">
-  ------------------------------------TEXT/Link------------------------------------------
-</p>   [ezcol_end_both]   [ezcol_2third] 
+<h3 style="text-align: center;">
+  Read more
+</h3> [ezcol_end_both]   [ezcol_2third] 
 
 <div class="panel panel-default">
   <div id="custom-collapse-0-0" class="panel-collapse collapse in">
