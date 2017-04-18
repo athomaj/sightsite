@@ -23,7 +23,7 @@ published: true
       <pre class="">[add_posts category="DisplayOnHome" tag="DisplayOnHome" show="5" h="2" full="false" readmore="Read more" img="false"]</pre>
     </div>
   </div>
-</div> [/ezcol_2third] [[ezcol_1third_end] 
+</div> [/ezcol_2third] [ezcol_1third_end] 
 
 <h2 class="wsite-content-title" style="text-align: center;">
   Who We Are
