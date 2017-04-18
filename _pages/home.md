@@ -29,7 +29,11 @@ published: true
   Who We Are
 </h2>
 
-<img id="longdesc-return-232" class="size-full wp-image-232 aligncenter" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/6909542.jpg" alt="Jane Mattson Memorial Fun Image" width="364" height="253" longdesc="http://dannymejiaindev.com/sightsite?longdesc=232&referrer=33" /> ------------------------------------TEXT/Link------------------------------------------ <h2 class="wsite-content-title">
+<img id="longdesc-return-232" class="size-full wp-image-232 aligncenter" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/6909542.jpg" alt="Jane Mattson Memorial Fun Image" width="364" height="253" longdesc="http://dannymejiaindev.com/sightsite?longdesc=232&referrer=33" />   <h3 style="text-align: center;">
+  Read more
+</h3>
+
+<h2 class="wsite-content-title">
 </h2> [/ezcol_1third_end]   [ezcol_divider] 
 
 <h2 class="wsite-content-title" style="text-align: center;">
