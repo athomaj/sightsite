@@ -17,7 +17,7 @@ published: true
   ------------------------------------TEXT/Link------------------------------------------
 </p>   [ezcol_end_both]   [ezcol_1half] Some of our recent posts are: 
 
-<pre class="">[add_posts tag=wordpress-plugins show=3]</pre>
+<pre class="">[add_posts show="3" readmore="Click here for the full post"]</pre>
 
 <div class="panel panel-default">
   <div id="custom-collapse-0-0" class="panel-collapse collapse in">
