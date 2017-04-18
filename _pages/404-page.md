@@ -9,4 +9,4 @@ permalink: >
   http://dannymejiaindev.com/sightsite/404-page/
 published: true
 ---
-[maxbutton id="2" ]
+We apoligize for the inconviniece, but the page was not found [maxbutton id="2" ]
