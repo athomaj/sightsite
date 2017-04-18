@@ -15,29 +15,19 @@ published: true
 
 <p style="text-align: center;">
   ------------------------------------TEXT/Link------------------------------------------
-</p>   [ezcol_end_both]   [ezcol_1half] Some of our recent posts are: 
-
-<pre class="">[add_posts show="3" readmore="Click here for the full post"]</pre>
+</p>   [ezcol_end_both]   [ezcol_1half] 
 
 <div class="panel panel-default">
   <div id="custom-collapse-0-0" class="panel-collapse collapse in">
     <div class="panel-body">
-      <div class="panel panel-default">
-        <div id="custom-collapse-0-0" class="panel-collapse collapse in">
-          <div class="panel-body">
-            <div class="panel panel-default">
-              <div id="custom-collapse-0-0" class="panel-collapse collapse in">
-                <div class="panel-body">
-                  <pre class="">[add_posts category="DisplayOnHome" "show="1" h="2"]</pre>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <pre class="">[add_posts category="DisplayOnHome" tag="tag-slug" show="5" h="2" full="false" readmore="Read more link text" img="false"]</pre>
     </div>
   </div>
-</div> [/ezcol_1half] [ezcol_1half_end] 
+</div>
+
+<div class="panel panel-default">
+   [/ezcol_1half]
+</div> [ezcol_1half_end] 
 
 <h2 class="wsite-content-title" style="text-align: center;">
   Who We Are
