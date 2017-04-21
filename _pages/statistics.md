@@ -103,7 +103,7 @@ published: true
     </div>
   </div>
   
-  <strong>Cumulative Reports</strong> <div id="pdfview" role="pdfview" aria-label="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf">
+  <strong>Cumulative Reports</strong> <div id="pdfview">
     [pdfviewer width="100%" height="100%" beta="true"]http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf[/pdfviewer]
   </div>
   
