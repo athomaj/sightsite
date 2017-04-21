@@ -10,16 +10,7 @@ permalink: >
 published: true
 ---
 <style>
-  #pdfview {
-width: 600px;
-height: 700px;
-}
-@media screen and (max-width: 37.5em) {
-#pdfview {
-width: 350px;
-height: 500px;
-}
-}
+  #pdfview {<br />width: 600px;<br />height: 700px;<br />}<br />@media screen and (max-width: 37.5em) {<br />#pdfview {<br />width: 350px;<br />height: 500px;<br />}<br />}<br />
 </style>
 
 <h2 class="wsite-content-title">
@@ -37,7 +28,7 @@ height: 500px;
   ​ <strong>Single Month Reports</strong>
 </div>
 
-<div class="paragraph" id="pdfview">
+<div id="pdfview" class="paragraph">
   [pdfviewer width="100%" height="100%" beta="false"]http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_december_2016__1_.pdf[/pdfviewer]
 </div>
 
@@ -112,7 +103,7 @@ height: 500px;
     </div>
   </div>
   
-  <strong>Cumulative Reports</strong> <div  id="pdfview">
+  <strong>Cumulative Reports</strong> <div id="pdfview" role="pdfview" aria-label="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf">
     [pdfviewer width="100%" height="100%" beta="true"]http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/kennel_stats_2016_full_year.pdf[/pdfviewer]
   </div>
   
