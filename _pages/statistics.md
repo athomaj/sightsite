@@ -10,7 +10,7 @@ permalink: >
 published: true
 ---
 <style>
-  #pdfview {<br />width: 600px;<br />height: 700px;<br />}<br />@media screen and (max-width: 37.5em) {<br />#pdfview {<br />width: 350px;<br />height: 500px;<br />}<br />}<br />
+  #pdfview {width: 600px; height: 700px;}@media screen and (max-width: 37.5em) {#pdfview {width: 350px;height: 500px;}}
 </style>
 
 <h2 class="wsite-content-title">
