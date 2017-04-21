@@ -1,11 +1,42 @@
 ---
-ID: 50
+ID: 33
 post_title: Home
-author: user
-post_date: 2017-03-10 19:08:09
+author: Danny Mejia
+post_date: 2017-03-09 21:13:04
 post_excerpt: ""
 layout: page
-permalink: http://www.testmaishalite.dev/home/
+permalink: http://dannymejiaindev.com/sightsite/
 published: true
 ---
-[ezcol_1third] <img id="longdesc-return-50" class="aligncenter wp-image-50 size-full" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg" alt="AltPlaceHolder" width="640" height="426" longdesc="http://dannymejiaindev.com/sightsite?longdesc=50&referrer=58" /> Vestibulum auctor magna libero, ut euismod dolor auctor sed. Nullam placerat tortor sit amet sapien ornare consequat. Sed laoreet maximus pellentesque. Nulla a luctus turpis. Proin metus sapien, bibendum ac mi in, semper viverra tortor. Nullam vitae ante sit amet turpis pulvinar luctus ut sed erat. Vestibulum ullamcorper dui nunc, a accumsan libero hendrerit vel. Suspendisse id mollis nunc, quis mattis nisl. Aliquam mattis orci at urna scelerisque, eu suscipit nibh accumsan. Fusce a ullamcorper tellus. Nam malesuada lectus non pulvinar maximus. Nunc quam purus, consequat ac augue varius, lacinia efficitur purus. Curabitur consectetur massa ultrices diam dapibus, eget lacinia erat fringilla. Mauris elementum magna mauris, ac finibus arcu porttitor quis. In quis libero nec ex aliquet tristique id vitae erat. Aliquam erat volutpat. [/ezcol_1third] [ezcol_1third] <img id="longdesc-return-50" class="aligncenter wp-image-50 size-full" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg" alt="AltPlaceHolder" width="640" height="426" longdesc="http://dannymejiaindev.com/sightsite?longdesc=50&referrer=58" /> Vestibulum auctor magna libero, ut euismod dolor auctor sed. Nullam placerat tortor sit amet sapien ornare consequat. Sed laoreet maximus pellentesque. Nulla a luctus turpis. Proin metus sapien, bibendum ac mi in, semper viverra tortor. Nullam vitae ante sit amet turpis pulvinar luctus ut sed erat. Vestibulum ullamcorper dui nunc, a accumsan libero hendrerit vel. Suspendisse id mollis nunc, quis mattis nisl. Aliquam mattis orci at urna scelerisque, eu suscipit nibh accumsan. Fusce a ullamcorper tellus. Nam malesuada lectus non pulvinar maximus. Nunc quam purus, consequat ac augue varius, lacinia efficitur purus. Curabitur consectetur massa ultrices diam dapibus, eget lacinia erat fringilla. Mauris elementum magna mauris, ac finibus arcu porttitor quis. In quis libero nec ex aliquet tristique id vitae erat. Aliquam erat volutpat. [/ezcol_1third] [ezcol_1third_end] <img id="longdesc-return-50" class="aligncenter wp-image-50 size-full" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/Reverse-Image-Search-Engines-Apps-And-Its-Uses-2016.jpg" alt="AltPlaceHolder" width="640" height="426" longdesc="http://dannymejiaindev.com/sightsite?longdesc=50&referrer=58" /> Vestibulum auctor magna libero, ut euismod dolor auctor sed. Nullam placerat tortor sit amet sapien ornare consequat. Sed laoreet maximus pellentesque. Nulla a luctus turpis. Proin metus sapien, bibendum ac mi in, semper viverra tortor. Nullam vitae ante sit amet turpis pulvinar luctus ut sed erat. Vestibulum ullamcorper dui nunc, a accumsan libero hendrerit vel. Suspendisse id mollis nunc, quis mattis nisl. Aliquam mattis orci at urna scelerisque, eu suscipit nibh accumsan. Fusce a ullamcorper tellus. Nam malesuada lectus non pulvinar maximus. Nunc quam purus, consequat ac augue varius, lacinia efficitur purus. Curabitur consectetur massa ultrices diam dapibus, eget lacinia erat fringilla. Mauris elementum magna mauris, ac finibus arcu porttitor quis. In quis libero nec ex aliquet tristique id vitae erat. Aliquam erat volutpat. [/ezcol_1third_end]
+[ezcol_divider] <img id="longdesc-return-441" class="alignnone size-full wp-image-441" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/04/Cat_4-e1492198697630.jpg" alt="Image of a cat looking up at the sky" width="1600" height="900" longdesc="http://dannymejiaindev.com/sightsite?longdesc=441&referrer=33" /> 
+## Help Us Make Long Beach a No Kill City
+
+### In 2016, Long Beach Animal Care Services killed over 1,660 companion animals in our city’s animal shelter.
+
+<h3 style="text-align: center;">
+  <a href="http://dannymejiaindev.com/sightsite/no-kill-supporters/">Read more</a>
+</h3> [ezcol_end_both]   [ezcol_2third] 
+
+<div class="panel panel-default">
+  <div id="custom-collapse-0-0" class="panel-collapse collapse in">
+    <div class="panel-body">
+      <pre class="">[add_posts category="DisplayOnHome" tag="DisplayOnHome" show="5" h="2" full="false" readmore="Read more" img="false"]</pre>
+    </div>
+  </div>
+</div> [/ezcol_2third] [ezcol_1third_end] 
+
+<h2 class="wsite-content-title" style="text-align: center;">
+  Who We Are
+</h2>
+
+<img id="longdesc-return-232" class="size-full wp-image-232 aligncenter" tabindex="-1" src="http://dannymejiaindev.com/sightsite/wp-content/uploads/2017/03/6909542.jpg" alt="Jane Mattson Memorial Fun Image" width="364" height="253" longdesc="http://dannymejiaindev.com/sightsite?longdesc=232&referrer=33" /> Each day, thousands of homeless animals are being put to death in animal shelters across the country. No animal should die just because he or she is homeless. The mission of Stayin’ Alive Long Beach is to be a voice for animals and promote an end to the unnecessary killing of healthy and treatable animals in the Long Beach Animal Care Services shelter. We will accomplish this by advocating for responsible, cost-effective policies and programs that will reduce population growth and increase adoption rates. It is our goal to see Long Beach Animal Care Services comprehensively implement these policies of responsible municipal sheltering to make Long Beach a safer place for animals and humans. <h3 style="text-align: center;">
+  <a href="http://dannymejiaindev.com/sightsite/about/">Read more</a>
+</h3> [/ezcol_1third_end]   [ezcol_divider] 
+
+<h2 class="wsite-content-title" style="text-align: center;">
+  Stayin' Alive Long Beach PSA
+</h2>
+
+<div style="text-align: center;">
+  <code>[fve]&lt;a href="https://youtu.be/i4uUJf8kQ3Q">http://youtu.be/oHg5SJYRHA0&lt;/a>[/fve]</code>
+</div> [ezcol_end_both] [maxbutton id="2" ]

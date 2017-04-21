@@ -1,0 +1,12 @@
+---
+ID: 398
+post_title: 'Has LBACS really changed? For the kittens&#8217; sake, we hope so'
+author: sightsite
+post_date: 2017-04-10 05:55:18
+post_excerpt: ""
+layout: post
+permalink: >
+  http://dannymejiaindev.com/sightsite/2017/04/10/has-lbacs-really-changed-for-the-kittens-sake-we-hope-so/
+published: true
+---
+For the past 3 years, Stayin' Alive Long Beach has been advocating for a foster program at LBACS. We were repeatedly told it couldn't be done. A mere 19 months ago, LBACS manager Ted Stevens stated in a local newspaper article that Stayin' Alive's suggestion that LBACS implement a foster program for cats was too expensive and “unrealistic.” After years of saying it couldn't be done, and after thousands of kittens have found death at the end of a syringe filled with sodium pentobarbital, it appears it CAN be done after all. Let us be clear. We're thrilled to see that LBACS is seeking fosters this kitten season. If this is an actual change in policy and not a one-shot deal, we are overjoyed to hear it. But we'll remain cautiously optimistic for two reasons. One is that nothing that Mr. Stevens has said or done in the past three years has indicated that he is truly interested in doing the hard work and providing the leadership necessary to significantly decrease the kill rate at the LBACS animal shelter. In fact, the vehemence with which he has fought No Kill has been singularly impressive, and it will take time to believe that he is genuinely interested in decreasing his shelter's kill rate. The second is that we have always said and will continue to say that until an adoption program, foster program and other essential lifesaving programs are codified in Long Beach city ordinance, our shelter animals will continue to be at the mercy of whoever is running LBACS. If we want a sustainable No Kill shelter, one that has lifesaving programs in place for decades to come, regardless of who comes and goes in positions of power at LBACS, it will require an actual ordinance that requires LBACS to put those in place. So far, City Council has not been interested in taking action – they will need to continue to hear from you – the public – that the killing of nearly 1500 kittens per year in our city's animal shelter is not acceptable. This is good news, but it's only a beginning. We'll continue to watch and advocate for better and more efficient lifesaving programs at the Long Beach animal shelter. But for tonight, we're celebrating....for the kitties' sake. [maxbutton id="2" ]
